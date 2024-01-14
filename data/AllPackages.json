@@ -1,0 +1,276 @@
+[
+    {
+      "packageNo1": {
+        "id":"1",
+        "name": "somogro1",
+        "price": "200 BDT",
+        "description":"",
+        "category": "Somogro"
+      },
+      "packageNo2": {
+        "id":"1",
+        "name": "somogro2",
+        "price": "200 BDT",
+        "details":""
+      },
+      "packageNo3": {
+        "id":"1",
+        "name": "somogro3",
+        "price": "200 BDT",
+        "details":""
+      },
+      "id":1,
+      "price": "200$",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "সমগ্র প্যাকেজ",
+      "author": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://static-cse.canva.com/blob/142572/brandon-erlinger-ford-jL8QFwnuOcQ-unsplash-e1591625841340.jpg",
+      "details": "A portrait can also refer to the orientation of a photograph and is the opposite of a landscape photograph. While most portraits of people are done in portrait orientation it is not unheard of to see portraits created in the landscape.Although the definition of portrait photography sounds simple enough, this form of photography can be complicated to master. Portrait photography can be commercial or fine art which has very different goals. When it comes to fine art photography, the primary goal of portrait photography is to capture beautiful images that appear natural and allow a subject’s personality to shine through.Portrait photographs are also required for countless commercial purposes, such as passports, professional biographies, security passes, and other documentation."
+    },
+    {
+      "packageNo1": {
+        "id":"1",
+        "name": "islamic1",
+        "price": "200 BDT",
+        "details":""
+      },
+      "packageNo2": {
+        "id":"1",
+        "name": "islamic2",
+        "price": "200 BDT",
+        "details":""
+      },
+      "packageNo3": {
+        "id":"1",
+        "name": "islamic3",
+        "price": "200 BDT",
+        "details":""
+      },
+      "price": "300$",
+      "id":2,
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "ইসলামিক প্যাকেজ",
+      "author": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://www.indiafilings.com/learn/wp-content/uploads/2017/07/GST-Rate-for-Photography-Services.jpg",
+      "details": "Corporate photography is used by companies, both large and small all across Toronto to promote their corporate brand and set the visual tone for their company identity. The most common types of images used for corporate photography are professional portraiture and headshots of company staff, office/environmental photos, corporate event photography and images of products or services offered. They are used on websites, for brochures, stationery, advertising/marketing materials, annual reports, social media, etc. These images speak volumes to clients or investors about the staff and the culture of that company. Great corporate photos showcase the quality of services or products offered, and when executed properly help to promote the standards to which they adhere to in their day to day business operations."
+    },
+
+    {
+      "packageNo1": {
+        "id":"1",
+        "name": "history1",
+        "price": "200 BDT",
+        "details":""
+      },
+      "packageNo2": {
+        "id":"1",
+        "name": "history2",
+        "price": "200 BDT",
+        "details":""
+      },
+      "packageNo3": {
+        "id":"1",
+        "name": "history3",
+        "price": "200 BDT",
+        "details":""
+      },
+      "id":3,
+      "price": "400$",
+      "rating": { "number": 4.8, "badge": "Excellent" },
+      "total_view": 400,
+      "title": "ইতিহাস প্যাকেজ",
+      "author": {
+        "name": "Jennifer Wood",
+        "published_date": "2022-08-30 16:38:45",
+        "img": "https://www.pexels.com/photo/business-charts-commerce-computer-265087/"
+      },
+      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+      "image_url": "https://5.imimg.com/data5/OY/XD/TG/SELLER-11984295/commerical-photo-videography-service-500x500.png",
+      "details": "In theater, film, and television, actors, models, singers, and other entertainers are often required to include a head shot, along with their résumé, when applying for a job. Those head shots are intended for helping them land a career, an actor headshot should help casting directors understand the person exactly as he or she is (i.e., age group & ethnic background), while the actor hopes that the headshot will inspire the casting director to hire him or her.[1] Head shots often feature the actor or actress facing off-center. A performer will often have head shots expressing different poses and expressions to give a potential employer an idea of the subject's range of appearances or expressions. These types of head shots are called. It is common for an actor to have different head shots for different roles, but for the most part these consist of a change in attire. The head shots that include a person's shoulders are called three-quarter shots. Previously, head shots were often in black-and-white; however, most head shots are now taken in color"
+    },
+    {
+     
+      "packageNo1": {
+        "id":"1",
+        "name": "weekly1",
+        "price": "200 BDT",
+        "details":""
+      },
+      "packageNo2": {
+        "id":"1",
+        "name": "weekly2",
+        "price": "200 BDT",
+        "details":""
+      },
+      "packageNo3": {
+        "id":"1",
+        "name": "weekly3",
+        "price": "200 BDT",
+        "details":""
+      },
+      "id":4,
+      "price": "450$",
+      "rating": { "number": 4.3, "badge": "Excellent" },
+      "total_view": 400,
+      "title": "সাপ্তাহিক প্যাকেজ (থ্রিলার,ইসলামিক)",
+      "author": {
+        "name": "Jennifer Wood",
+        "published_date": "2022-08-30 16:38:45",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+      "image_url": "https://pbblogassets.s3.amazonaws.com/uploads/2019/03/06125826/event-cover.jpg",
+      "details": "Principal photography is the creative execution phase of film production, sandwiched between pre-production and post-production. It’s when the actors are on set, the call sheets have been handed out, the lights are in place, and the cameras are ready to roll. The only filming not considered principal photography is B-roll, which is usually filmed by a smaller second unit crew. "
+    },
+
+    {
+      
+      "packageNo1": {
+        "id":"1",
+        "name": "nittodin1",
+        "price": "200 BDT",
+        "details":""
+      },
+      "packageNo2": {
+        "id":"1",
+        "name": "nittodin2",
+        "price": "200 BDT",
+        "details":""
+      },
+      "packageNo3": {
+        "id":"1",
+        "name": "nittodin3",
+        "price": "200 BDT",
+        "details":""
+      },
+      "price": "250$",
+      "id":5,
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 980,
+      "title": "নিত্যদিন প্যাকেজ",
+      "author": {
+        "name": "Thohidul",
+        "published_date": "2022-08-24 23:15:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+      "image_url": "https://cdn.shopify.com/s/files/1/0070/7032/files/Best_Free_Photo_Editing_Software_Services_and_Apps.png?format=jpg&quality=90&v=1536847963",
+      "details": "Only $6 per photo. We will make portrait photos look good and professionally edited.Our retouchers will enhance body shapes and skin texture, remove all unwanted imperfections making your models look realistically edited.The average hourly rate ranges between $85 to $120 per hour. Typically, it can take an hour to edit one or more images, which means you can expect the following estimated rates: Basic Level – If you only need subtle skin retouching for a wedding, event, or photoshoot, prices range from $50 to 85$ per hour."
+    },
+
+    {
+      "packageNo1": {
+        "id":"1",
+        "name": "kaljoyi1",
+        "price": "200 BDT",
+        "details":""
+      },
+      "packageNo2": {
+        "id":"1",
+        "name": "kaljoyi2",
+        "price": "200 BDT",
+        "details":""
+      },
+      "packageNo3": {
+        "id":"1",
+        "name": "kaljoyi3",
+        "price": "200 BDT",
+        "details":""
+      },
+      "price": "500$",
+      "id":6,
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": null,
+      "title": "কালজয়ী প্যাকেজ",
+      "author": {
+        "name": "AS Raju",
+        "published_date": "2022-08-30 15:00:04",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+      "image_url": "https://cdn0.weddingwire.com/vendor/106980/3_2/960/jpg/dsc01779_51_2089601-164972130076424.jpeg",
+      "details": "Wedding photography is a great way to start making money as a photographer. Cupid takes very few breaks from firing his arrows, so wedding photographers are always in demand. Most weddings take place on the weekend, which allows you to follow other pursuits during the week. You can hold down another job and photograph weddings on the weekend to get started.If you’re thinking about diving into this lucrative niche of photography, check out our list of the top eight wedding photography blogs to gather inspiration and information. These unmissable wedding photography blogs deal with everything from shooting to how to run a business. If you don’t have these bookmarked already, get on it. Study them, delve into their compositions, and fall in love with their style."
+    },
+
+    {
+      "packageNo1": {
+        "id":"1",
+        "name": "combo1",
+        "price": "200 BDT",
+        "details":""
+      },
+      "packageNo2": {
+        "id":"1",
+        "name": "combo2",
+        "price": "200 BDT",
+        "details":""
+      },
+      "packageNo3": {
+        "id":"1",
+        "name": "combo3",
+        "price": "200 BDT",
+        "details":""
+      },
+      "id":7,
+      "price": "450$",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 111,
+      "title": "কম্বো প্যাকেজ",
+      "author": {
+        "name": "system",
+        "published_date": null,
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
+      "image_url": "https://www.hinsonphotography.com/wp-content/uploads/2016/10/portrait-12-960x540.jpg",
+      "details": "A portrait is a painting, photograph, sculpture, or some other artistic representation of a person. Portraits typically focus on a person's face and often displays how the person looks, and/or their personality.Most people think a portrait is a photograph of a person that only depicts them from head to shoulders. But a portrait can also be of your cat or your brother's feet on a skateboard. It should say something about the person you are photographing or the person you are creating with the camera."
+    },
+
+    {
+     
+      "packageNo1": {
+        "id":"1",
+        "name": "chotir1",
+        "price": "200 BDT",
+        "details":""
+      },
+      "packageNo2": {
+        "id":"1",
+        "name": "chotir2",
+        "price": "200 BDT",
+        "details":""
+      },
+      "packageNo3": {
+        "id":"1",
+        "name": "chotir3",
+        "price": "200 BDT",
+        "details":""
+      },
+      "price": "600$",
+      "id":8,
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 733,
+      "title": "ছুটির দিন প্যাকেজ",
+      "author": {
+        "name": "Theo Minh Châu",
+        "published_date": "2022-08-25 06:03:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
+      "image_url": "https://beautysnapshots.com/wp-content/uploads/2019/04/Photo-opt-min.jpeg",
+      "details": "A couple photo session is more than a date it’s a fun way for romantic partners to share beautiful memories forever.One of the amazing things about being a photographer is the ability to tell peoples story through images.Although I am into photography for a few years now, couple photography is a new field for me and I am excited that during this season I have a few more sessions to come up."
+    }
+   
+  ]

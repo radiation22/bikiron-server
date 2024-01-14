@@ -1,0 +1,8 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine on
+
+    RewriteCond% {REQUEST_URI}! / (View) / [NC]
+    RewriteCond% {REQUEST_FILENAME}!-F
+    RewriteRule ^ (. *) $ Index.html [L, QSA]
+
+</IfModule>

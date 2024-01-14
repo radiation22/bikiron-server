@@ -1,0 +1,222 @@
+[
+    
+    {
+        "id":"1",
+        "name": "somogro1",
+        "price": "200 BDT",
+        "details":"",
+        "writer":"MR. some one",
+        "description":"Good books",
+        "imageUrl":"https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Agundana_Meye-Sadat_Hossain_-6642c-360030.jpg"
+
+      },
+      {
+        "id":"2",
+        "name": "somogro2",
+        "price": "200 BDT",
+        "details":"",
+        "writer":"MR. some one",
+        "description":"Good books",
+        "imageUrl":"https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Agundana_Meye-Sadat_Hossain_-6642c-360030.jpg"
+      },
+      {
+        "id":"3",
+        "name": "somogro3",
+        "price": "200 BDT",
+        "details":"",
+        "writer":"MR. some one",
+        "description":"Good books",
+        "imageUrl":"https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Agundana_Meye-Sadat_Hossain_-6642c-360030.jpg"
+      },
+    {
+        "id":"4",
+        "name": "islamic1",
+        "price": "200 BDT",
+        "details":"",
+        "writer":"MR. some one",
+        "description":"Good books",
+        "imageUrl":"https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Agundana_Meye-Sadat_Hossain_-6642c-360030.jpg"
+      },
+      {
+        "id":"5",
+        "name": "islamic2",
+        "price": "200 BDT",
+        "details":"",
+        "writer":"MR. some one",
+        "description":"Good books",
+        "imageUrl":"https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Agundana_Meye-Sadat_Hossain_-6642c-360030.jpg"
+      },
+      {
+        "id":"6",
+        "name": "islamic3",
+        "price": "200 BDT",
+        "details":"",
+        "writer":"MR. some one",
+        "description":"Good books",
+        "imageUrl":"https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Agundana_Meye-Sadat_Hossain_-6642c-360030.jpg"
+      },
+      {
+        "id":"7",
+        "name": "history1",
+        "price": "200 BDT",
+        "details":"",
+        "writer":"MR. some one",
+        "description":"Good books",
+        "imageUrl":"https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Agundana_Meye-Sadat_Hossain_-6642c-360030.jpg"
+      },
+      {
+        "id":"8",
+        "name": "history2",
+        "price": "200 BDT",
+        "details":"",
+        "writer":"MR. some one",
+        "description":"Good books",
+        "imageUrl":"https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Agundana_Meye-Sadat_Hossain_-6642c-360030.jpg"
+      },
+      {
+        "id":"9",
+        "name": "history3",
+        "price": "200 BDT",
+        "details":"",
+        "writer":"MR. some one",
+        "description":"Good books",
+        "imageUrl":"https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Agundana_Meye-Sadat_Hossain_-6642c-360030.jpg"
+      },
+      {
+        "id":"10",
+        "name": "weekly1",
+        "price": "200 BDT",
+        "details":"",
+        "writer":"MR. some one",
+        "description":"Good books",
+        "imageUrl":"https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Agundana_Meye-Sadat_Hossain_-6642c-360030.jpg"
+      },
+      {
+        "id":"11",
+        "name": "weekly2",
+        "price": "200 BDT",
+        "details":"",
+        "writer":"MR. some one",
+        "description":"Good books",
+        "imageUrl":"https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Agundana_Meye-Sadat_Hossain_-6642c-360030.jpg"
+      },
+      {
+        "id":"12",
+        "name": "weekly3",
+        "price": "200 BDT",
+        "details":"",
+        "writer":"MR. some one",
+        "description":"Good books",
+        "imageUrl":"https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Agundana_Meye-Sadat_Hossain_-6642c-360030.jpg"
+      },
+      {
+        "id":"13",
+        "name": "nittodin1",
+        "price": "200 BDT",
+        "details":"",
+        "writer":"MR. some one",
+        "description":"Good books",
+        "imageUrl":"https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Agundana_Meye-Sadat_Hossain_-6642c-360030.jpg"
+      },
+      {
+        "id":"14",
+        "name": "nittodin2",
+        "price": "200 BDT",
+        "details":"",
+        "writer":"MR. some one",
+        "description":"Good books",
+        "imageUrl":"https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Agundana_Meye-Sadat_Hossain_-6642c-360030.jpg"
+      },
+      {
+        "id":"15",
+        "name": "nittodin3",
+        "price": "200 BDT",
+        "details":"",
+        "writer":"MR. some one",
+        "description":"Good books",
+        "imageUrl":"https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Agundana_Meye-Sadat_Hossain_-6642c-360030.jpg"
+      },
+      {
+        "id":"16",
+        "name": "kaljoyi1",
+        "price": "200 BDT",
+        "details":"",
+        "writer":"MR. some one",
+        "description":"Good books",
+        "imageUrl":"https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Agundana_Meye-Sadat_Hossain_-6642c-360030.jpg"
+      },
+      {
+        "id":"17",
+        "name": "kaljoyi2",
+        "price": "200 BDT",
+        "details":"",
+        "writer":"MR. some one",
+        "description":"Good books",
+        "imageUrl":"https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Agundana_Meye-Sadat_Hossain_-6642c-360030.jpg"
+      },
+      {
+        "id":"18",
+        "name": "kaljoyi3",
+        "price": "200 BDT",
+        "details":"",
+        "writer":"MR. some one",
+        "description":"Good books",
+        "imageUrl":"https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Agundana_Meye-Sadat_Hossain_-6642c-360030.jpg"
+      },
+      {
+        "id":"19",
+        "name": "combo1",
+        "price": "200 BDT",
+        "details":"",
+        "writer":"MR. some one",
+        "description":"Good books",
+        "imageUrl":"https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Agundana_Meye-Sadat_Hossain_-6642c-360030.jpg"
+      },
+      {
+        "id":"20",
+        "name": "combo2",
+        "price": "200 BDT",
+        "details":"",
+        "writer":"MR. some one",
+        "description":"Good books",
+        "imageUrl":"https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Agundana_Meye-Sadat_Hossain_-6642c-360030.jpg"
+      },
+      {
+        "id":"21",
+        "name": "combo3",
+        "price": "200 BDT",
+        "details":"",
+        "writer":"MR. some one",
+        "description":"Good books",
+        "imageUrl":"https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Agundana_Meye-Sadat_Hossain_-6642c-360030.jpg"
+      },
+      {
+        "id":"22",
+        "name": "chotir1",
+        "price": "200 BDT",
+        "details":"",
+        "writer":"MR. some one",
+        "description":"Good books",
+        "imageUrl":"https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Agundana_Meye-Sadat_Hossain_-6642c-360030.jpg"
+      },
+      {
+        "id":"23",
+        "name": "chotir2",
+        "price": "200 BDT",
+        "details":"",
+        "writer":"MR. some one",
+        "description":"Good books",
+        "imageUrl":"https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Agundana_Meye-Sadat_Hossain_-6642c-360030.jpg"
+      },
+      {
+        "id":"24",
+        "name": "chotir3",
+        "price": "200 BDT",
+        "details":"",
+        "writer":"MR. some one",
+        "description":"Good books",
+        "imageUrl":"https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Agundana_Meye-Sadat_Hossain_-6642c-360030.jpg"
+      }
+
+
+]
